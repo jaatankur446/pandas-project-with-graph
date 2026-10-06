@@ -1,0 +1,301 @@
+meter_id,customer_type,city,connection_type
+M0001,Industrial,Jaipur,Smart
+M0002,Industrial,Patna,Three Phase
+M0003,Residential,Patna,Single
+M0004,Commercial,Mumbai,Three Phase
+M0005,Residential,Mumbai,Smart
+M0006,Industrial,Jaipur,Smart
+M0007,Commercial,Mumbai,Single
+M0008,Commercial,Pune,Single
+M0009,Residential,Mumbai,Three Phase
+M0010,Residential,Pune,Single
+M0011,Commercial,Delhi,Smart
+M0012,Commercial,Patna,Smart
+M0013,Industrial,Jaipur,Smart
+M0014,Commercial,Mumbai,Single
+M0015,Commercial,Delhi,Smart
+M0016,Commercial,Mumbai,Three Phase
+M0017,Industrial,Patna,Three Phase
+M0018,Commercial,Delhi,Smart
+M0019,Residential,Pune,Smart
+M0020,Commercial,Pune,Single
+M0021,Commercial,Delhi,Three Phase
+M0022,Industrial,Mumbai,Single
+M0023,Industrial,Mumbai,Three Phase
+M0024,Industrial,Mumbai,Single
+M0025,Residential,Delhi,Single
+M0026,Residential,Pune,Smart
+M0027,Residential,Mumbai,Three Phase
+M0028,Residential,Patna,Single
+M0029,Commercial,Delhi,Smart
+M0030,Commercial,Delhi,Smart
+M0031,Residential,Jaipur,Smart
+M0032,Industrial,Delhi,Single
+M0033,Residential,Mumbai,Single
+M0034,Industrial,Jaipur,Single
+M0035,Residential,Delhi,Single
+M0036,Commercial,Delhi,Single
+M0037,Residential,Delhi,Single
+M0038,Residential,Mumbai,Smart
+M0039,Commercial,Mumbai,Single
+M0040,Industrial,Jaipur,Smart
+M0041,Commercial,Patna,Single
+M0042,Residential,Mumbai,Single
+M0043,Commercial,Mumbai,Smart
+M0044,Industrial,Pune,Three Phase
+M0045,Commercial,Patna,Smart
+M0046,Residential,Delhi,Single
+M0047,Residential,Patna,Single
+M0048,Industrial,Delhi,Single
+M0049,Industrial,Delhi,Smart
+M0050,Industrial,Pune,Single
+M0051,Commercial,Pune,Three Phase
+M0052,Commercial,Jaipur,Single
+M0053,Residential,Jaipur,Three Phase
+M0054,Industrial,Mumbai,Single
+M0055,Commercial,Jaipur,Single
+M0056,Residential,Mumbai,Smart
+M0057,Industrial,Delhi,Smart
+M0058,Residential,Mumbai,Single
+M0059,Residential,Pune,Smart
+M0060,Industrial,Delhi,Smart
+M0061,Residential,Mumbai,Three Phase
+M0062,Commercial,Patna,Single
+M0063,Commercial,Pune,Three Phase
+M0064,Residential,Mumbai,Three Phase
+M0065,Commercial,Pune,Single
+M0066,Residential,Patna,Single
+M0067,Industrial,Mumbai,Single
+M0068,Residential,Pune,Smart
+M0069,Commercial,Pune,Smart
+M0070,Commercial,Mumbai,Smart
+M0071,Industrial,Pune,Three Phase
+M0072,Commercial,Mumbai,Three Phase
+M0073,Commercial,Mumbai,Single
+M0074,Commercial,Patna,Smart
+M0075,Commercial,Mumbai,Single
+M0076,Commercial,Patna,Single
+M0077,Commercial,Mumbai,Smart
+M0078,Commercial,Delhi,Single
+M0079,Residential,Patna,Three Phase
+M0080,Commercial,Pune,Single
+M0081,Residential,Jaipur,Single
+M0082,Residential,Mumbai,Single
+M0083,Residential,Pune,Smart
+M0084,Residential,Jaipur,Smart
+M0085,Commercial,Mumbai,Smart
+M0086,Commercial,Mumbai,Three Phase
+M0087,Commercial,Jaipur,Smart
+M0088,Residential,Delhi,Smart
+M0089,Residential,Delhi,Three Phase
+M0090,Industrial,Pune,Three Phase
+M0091,Commercial,Jaipur,Three Phase
+M0092,Commercial,Jaipur,Three Phase
+M0093,Commercial,Mumbai,Single
+M0094,Commercial,Pune,Three Phase
+M0095,Commercial,Patna,Single
+M0096,Commercial,Pune,Single
+M0097,Commercial,Pune,Smart
+M0098,Commercial,Delhi,Smart
+M0099,Residential,Mumbai,Three Phase
+M0100,Residential,Pune,Three Phase
+M0101,Residential,Patna,Smart
+M0102,Commercial,Pune,Single
+M0103,Commercial,Mumbai,Smart
+M0104,Industrial,Patna,Single
+M0105,Industrial,Pune,Single
+M0106,Industrial,Pune,Single
+M0107,Commercial,Jaipur,Three Phase
+M0108,Residential,Delhi,Three Phase
+M0109,Residential,Mumbai,Single
+M0110,Industrial,Delhi,Three Phase
+M0111,Residential,Delhi,Single
+M0112,Industrial,Patna,Smart
+M0113,Industrial,Patna,Three Phase
+M0114,Industrial,Pune,Single
+M0115,Industrial,Delhi,Single
+M0116,Commercial,Pune,Three Phase
+M0117,Residential,Patna,Smart
+M0118,Residential,Patna,Single
+M0119,Residential,Patna,Smart
+M0120,Commercial,Patna,Three Phase
+M0121,Residential,Pune,Smart
+M0122,Residential,Mumbai,Smart
+M0123,Industrial,Delhi,Single
+M0124,Residential,Delhi,Single
+M0125,Industrial,Delhi,Single
+M0126,Commercial,Pune,Three Phase
+M0127,Commercial,Delhi,Smart
+M0128,Residential,Pune,Single
+M0129,Residential,Patna,Smart
+M0130,Commercial,Pune,Smart
+M0131,Industrial,Jaipur,Smart
+M0132,Commercial,Pune,Three Phase
+M0133,Industrial,Patna,Smart
+M0134,Commercial,Delhi,Smart
+M0135,Industrial,Delhi,Smart
+M0136,Residential,Delhi,Three Phase
+M0137,Residential,Pune,Single
+M0138,Residential,Patna,Single
+M0139,Residential,Pune,Single
+M0140,Commercial,Delhi,Smart
+M0141,Commercial,Patna,Three Phase
+M0142,Residential,Jaipur,Smart
+M0143,Industrial,Jaipur,Single
+M0144,Commercial,Pune,Three Phase
+M0145,Residential,Mumbai,Smart
+M0146,Commercial,Delhi,Three Phase
+M0147,Residential,Patna,Three Phase
+M0148,Industrial,Jaipur,Smart
+M0149,Commercial,Jaipur,Three Phase
+M0150,Industrial,Mumbai,Smart
+M0151,Industrial,Jaipur,Single
+M0152,Commercial,Mumbai,Single
+M0153,Industrial,Delhi,Smart
+M0154,Commercial,Pune,Smart
+M0155,Industrial,Delhi,Three Phase
+M0156,Commercial,Mumbai,Smart
+M0157,Residential,Mumbai,Single
+M0158,Residential,Patna,Three Phase
+M0159,Commercial,Jaipur,Three Phase
+M0160,Industrial,Patna,Three Phase
+M0161,Residential,Mumbai,Three Phase
+M0162,Commercial,Delhi,Single
+M0163,Residential,Pune,Smart
+M0164,Industrial,Patna,Single
+M0165,Industrial,Jaipur,Single
+M0166,Commercial,Pune,Single
+M0167,Industrial,Pune,Smart
+M0168,Commercial,Pune,Smart
+M0169,Commercial,Jaipur,Single
+M0170,Commercial,Delhi,Three Phase
+M0171,Residential,Jaipur,Three Phase
+M0172,Industrial,Delhi,Three Phase
+M0173,Residential,Patna,Three Phase
+M0174,Residential,Pune,Single
+M0175,Residential,Patna,Three Phase
+M0176,Commercial,Patna,Three Phase
+M0177,Industrial,Patna,Smart
+M0178,Commercial,Mumbai,Single
+M0179,Residential,Pune,Single
+M0180,Commercial,Mumbai,Smart
+M0181,Residential,Mumbai,Smart
+M0182,Industrial,Delhi,Single
+M0183,Residential,Mumbai,Three Phase
+M0184,Industrial,Pune,Smart
+M0185,Residential,Jaipur,Three Phase
+M0186,Industrial,Delhi,Single
+M0187,Commercial,Jaipur,Smart
+M0188,Residential,Mumbai,Single
+M0189,Residential,Jaipur,Single
+M0190,Industrial,Pune,Three Phase
+M0191,Commercial,Mumbai,Three Phase
+M0192,Commercial,Pune,Smart
+M0193,Residential,Mumbai,Smart
+M0194,Commercial,Pune,Smart
+M0195,Residential,Delhi,Three Phase
+M0196,Industrial,Jaipur,Smart
+M0197,Residential,Mumbai,Single
+M0198,Industrial,Pune,Three Phase
+M0199,Commercial,Mumbai,Single
+M0200,Commercial,Delhi,Smart
+M0201,Commercial,Delhi,Three Phase
+M0202,Industrial,Jaipur,Smart
+M0203,Industrial,Patna,Smart
+M0204,Industrial,Patna,Single
+M0205,Industrial,Delhi,Smart
+M0206,Residential,Delhi,Three Phase
+M0207,Residential,Mumbai,Three Phase
+M0208,Residential,Pune,Smart
+M0209,Industrial,Delhi,Smart
+M0210,Residential,Mumbai,Single
+M0211,Residential,Pune,Three Phase
+M0212,Commercial,Mumbai,Three Phase
+M0213,Residential,Patna,Single
+M0214,Residential,Delhi,Three Phase
+M0215,Industrial,Mumbai,Three Phase
+M0216,Residential,Mumbai,Single
+M0217,Commercial,Mumbai,Smart
+M0218,Residential,Jaipur,Smart
+M0219,Commercial,Patna,Three Phase
+M0220,Residential,Jaipur,Three Phase
+M0221,Industrial,Mumbai,Single
+M0222,Residential,Patna,Three Phase
+M0223,Commercial,Patna,Three Phase
+M0224,Industrial,Delhi,Three Phase
+M0225,Industrial,Pune,Three Phase
+M0226,Commercial,Jaipur,Smart
+M0227,Commercial,Delhi,Single
+M0228,Commercial,Patna,Three Phase
+M0229,Residential,Jaipur,Three Phase
+M0230,Commercial,Jaipur,Smart
+M0231,Residential,Mumbai,Three Phase
+M0232,Commercial,Patna,Single
+M0233,Industrial,Patna,Single
+M0234,Commercial,Mumbai,Smart
+M0235,Commercial,Mumbai,Single
+M0236,Residential,Mumbai,Single
+M0237,Commercial,Delhi,Smart
+M0238,Industrial,Patna,Smart
+M0239,Residential,Pune,Single
+M0240,Industrial,Patna,Smart
+M0241,Residential,Patna,Three Phase
+M0242,Residential,Jaipur,Smart
+M0243,Commercial,Jaipur,Three Phase
+M0244,Industrial,Mumbai,Smart
+M0245,Industrial,Mumbai,Three Phase
+M0246,Residential,Mumbai,Three Phase
+M0247,Industrial,Delhi,Three Phase
+M0248,Industrial,Mumbai,Single
+M0249,Industrial,Jaipur,Single
+M0250,Commercial,Pune,Smart
+M0251,Residential,Pune,Single
+M0252,Residential,Delhi,Three Phase
+M0253,Residential,Delhi,Three Phase
+M0254,Residential,Mumbai,Single
+M0255,Residential,Jaipur,Smart
+M0256,Residential,Patna,Single
+M0257,Residential,Patna,Single
+M0258,Residential,Delhi,Three Phase
+M0259,Commercial,Jaipur,Single
+M0260,Industrial,Pune,Three Phase
+M0261,Residential,Mumbai,Single
+M0262,Commercial,Delhi,Smart
+M0263,Commercial,Jaipur,Smart
+M0264,Commercial,Patna,Three Phase
+M0265,Commercial,Delhi,Three Phase
+M0266,Commercial,Delhi,Single
+M0267,Commercial,Jaipur,Smart
+M0268,Commercial,Mumbai,Three Phase
+M0269,Industrial,Jaipur,Three Phase
+M0270,Residential,Mumbai,Single
+M0271,Industrial,Delhi,Smart
+M0272,Residential,Mumbai,Three Phase
+M0273,Residential,Delhi,Smart
+M0274,Residential,Jaipur,Three Phase
+M0275,Industrial,Delhi,Single
+M0276,Industrial,Jaipur,Single
+M0277,Industrial,Patna,Single
+M0278,Industrial,Pune,Three Phase
+M0279,Residential,Patna,Smart
+M0280,Industrial,Pune,Smart
+M0281,Residential,Pune,Single
+M0282,Commercial,Pune,Smart
+M0283,Residential,Jaipur,Single
+M0284,Commercial,Patna,Smart
+M0285,Residential,Pune,Smart
+M0286,Commercial,Patna,Smart
+M0287,Commercial,Mumbai,Smart
+M0288,Industrial,Mumbai,Three Phase
+M0289,Residential,Patna,Single
+M0290,Residential,Jaipur,Single
+M0291,Residential,Mumbai,Single
+M0292,Residential,Jaipur,Smart
+M0293,Industrial,Patna,Three Phase
+M0294,Industrial,Patna,Single
+M0295,Industrial,Delhi,Single
+M0296,Commercial,Jaipur,Three Phase
+M0297,Residential,Patna,Three Phase
+M0298,Residential,Jaipur,Single
+M0299,Commercial,Pune,Smart
+M0300,Commercial,Jaipur,Three Phase
